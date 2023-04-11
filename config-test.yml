@@ -1,5 +1,5 @@
-spring: 
-        datasource: 
-                uri: myEnvironment
-                username: root
-                password: password
+spring:
+    datasource: 
+        uri: myEnvironment
+        username: root
+        password: password
